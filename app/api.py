@@ -21,7 +21,7 @@ app.add_middleware(
 )
 
 def do_request(gheaders, data):
-    url = "https://www.youtube.com/miniapp_cloudsaves?authuser=0"
+    url = "https://m.youtube.com/miniapp_cloudsaves?authuser=0"
 
 
     response = requests.request("POST", url, headers=gheaders, data=data)
