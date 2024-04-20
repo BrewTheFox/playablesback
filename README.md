@@ -1,2 +1,2 @@
 # Backend de playablesHack
-Si
+Si, esto solo envia peticiones
